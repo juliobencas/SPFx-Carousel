@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-carousel-client-side-solution",
+    "id": "032ae232-46cf-4ec6-b377-e21f1d4268eb",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "spfx-carousel.spapp"
+  }
+}
