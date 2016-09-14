@@ -16,6 +16,7 @@ export default class SPfxCarouselWebPart extends BaseClientSideWebPart<ISPfxCaro
   $: any;
   public constructor(context: IWebPartContext) {
     super(context);
+    ModuleLoader.loadCss('//cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/flexslider.min.css')
   }
 
   public render(): void {
