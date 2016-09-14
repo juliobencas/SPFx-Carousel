@@ -1,6 +1,7 @@
 ## spfx-carousel
 
 Carousel Web Part built with SharePoint Framework Preview
+Work in Progress...Stay Tuned!
 
 ### Building the code
 
